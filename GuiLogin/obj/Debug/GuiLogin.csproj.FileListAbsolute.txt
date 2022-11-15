@@ -1,0 +1,16 @@
+D:\ServerGithub\Test\GuiLogin\GuiLogin\bin\Debug\GuiLogin.exe.config
+D:\ServerGithub\Test\GuiLogin\GuiLogin\bin\Debug\GuiLogin.exe
+D:\ServerGithub\Test\GuiLogin\GuiLogin\bin\Debug\GuiLogin.pdb
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.csproj.AssemblyReference.cache
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.csproj.SuggestedBindingRedirects.cache
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\MainWindow.g.cs
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\App.g.cs
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin_MarkupCompile.cache
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin_MarkupCompile.lref
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\MainWindow.baml
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.g.resources
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.Properties.Resources.resources
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.csproj.GenerateResource.cache
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.csproj.CoreCompileInputs.cache
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.exe
+D:\ServerGithub\Test\GuiLogin\GuiLogin\obj\Debug\GuiLogin.pdb
