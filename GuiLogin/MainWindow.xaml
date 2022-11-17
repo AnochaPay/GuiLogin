@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="GuiLogin V2022.01" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Button"
+                HorizontalAlignment="Left"
+                Height="87"
+                Margin="366,107,0,0"
+                VerticalAlignment="Top"
+                Width="200" />
+
     </Grid>
 </Window>
